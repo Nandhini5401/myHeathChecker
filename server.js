@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const port = process.env.PORT||8000;
+const port = process.env.PORT||80;
 
 const randData = (min, max) => {
   return Math.floor(Math.random() * (max - min) + min);
