@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "colorlib-regform-7",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
